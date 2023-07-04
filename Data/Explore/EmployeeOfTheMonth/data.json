@@ -1,26 +1,29 @@
 [
 	{
-		"ImageUrl": "",
-		"Name": "",
+		"ImageUrl": "Avatar",
+		"Name": "Username",
 		"Detail": "",
-		"Brand": "",
+		"DetailMore": "",
+		"Brand": "brand",
 		"Price": "",
 		"PayPortalL": ""
 	},
 	{
-		"ImageUrl": "",
-		"Name": "",
+		"ImageUrl": "Image10",
+		"Name": "Username",
 		"Detail": "",
-		"Brand": "",
+		"DetailMore": "",
+		"Brand": "brand",
 		"Price": "",
 		"PayPortalL": ""
 	},
 	{
-		"ImageUrl": "",
-		"Name": "",
-		"Detail": "",
-		"Brand": "",
-		"Price": "",
+		"ImageUrl": "User1",
+		"Name": "Username",
+		"Detail": "Some detail",
+		"DetailMore": "Some more detail",
+		"Brand": "brand",
+		"Price": "Price",
 		"PayPortalL": ""
 	}
 ]
